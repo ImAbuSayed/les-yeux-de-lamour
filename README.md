@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-yeux-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Les Yeux De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-yeux-de-lamour/) |
+| **Get License** | [Obtain a Music License for Les Yeux De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-yeux-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit de Paris, je cherche ton regard
+> Tu sais que je te veux, on s'évade dans le noir
+> Les yeux de l'amour, qui brillent sous les néons
+> Viens avec moi ce soir, on perd la raison
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
