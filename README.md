@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-yeux-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Les Yeux De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-yeux-de-lamour/) |
+| **Get License** | [Request Licensing for Les Yeux De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-yeux-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4c392b8055c7ba614702af127b6ae0407f78b6d825676632492927545c76b3c2` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

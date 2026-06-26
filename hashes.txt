@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Les Yeux De L'amour
+
+This log tracks the cryptographic history and versioning for the song **Les Yeux De L'amour** (les-yeux-de-lamour).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T05:57:35.956837 | `v1` | `4c392b8055c7ba614702af127b6ae0407f78b6d825676632492927545c76b3c2` | `e4f1dabd2c0aab59dd75e3b653aa05909b11e5ff6927f4a546f8dd9275624988` | `2026-06-27_les-yeux-de-lamour-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
